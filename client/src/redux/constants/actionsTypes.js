@@ -1,0 +1,20 @@
+export const GET_REPOS = "GET_REPOS";
+export const GET_REPOS_SUCCESS = "GET_REPOS_SUCCESS";
+export const GET_REPOS_FAILED = "GET_REPOS_FAILED";
+
+
+export const GET_TODOS = "GET_TODOS";
+export const GET_TODOS_SUCCESS = "GET_TODOS_SUCCESS";
+export const GET_TODOS_FAILED = "GET_TODOS_FAILED";
+
+export const ADD_TODO = "ADD_TODO";
+export const ADD_TODO_SUCCESS = "ADD_TODO_SUCCESS";
+export const ADD_TODO_FAILED = "ADD_TODO_FAILED";
+
+export const EDIT_TODO = "EDIT_TODO";
+export const EDIT_TODO_SUCCESS = "EDIT_TODO_SUCCESS";
+export const EDIT_TODO_FAILED = "EDIT_TODO_FAILED";
+
+export const DELETE_TODO = "DELETE_TODO";
+export const DELETE_TODO_SUCCESS = "DELETE_TODO_SUCCESS";
+export const DELETE_TODO_FAILED = "EDELETE_TODO_FAILED";

@@ -1,5 +1,5 @@
 # tps-reactjs
-TP 1, TP3  &amp;  TP5
+
 
 #### TP 1 : IMC Calcular 
 
